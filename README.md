@@ -21,8 +21,18 @@ Bu Python skripti Windows sistemində təhlükəsizlik yoxlamaları aparmaq üç
 pip install psutil pywin32
 
 ```
-
-
+# Tool istifadəsi
+```bash
+git clone https://github.com/cyberprogramming1/Security-Monitor.git
+```
+# Tool'u run eləmək  
+```bash
+python security_monitor.py
+```
+or 
+```bash
+security_monitor.exe
+```
 ## Skriptin İstifadəsi
 
 1. Skripti administrator olaraq işə salın.
